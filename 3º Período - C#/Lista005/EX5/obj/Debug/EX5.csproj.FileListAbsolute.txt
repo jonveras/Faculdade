@@ -1,0 +1,7 @@
+C:\Users\jveras\Desktop\Projetos Casa\Aula09\EX5\bin\Debug\EX5.exe.config
+C:\Users\jveras\Desktop\Projetos Casa\Aula09\EX5\bin\Debug\EX5.exe
+C:\Users\jveras\Desktop\Projetos Casa\Aula09\EX5\bin\Debug\EX5.pdb
+C:\Users\jveras\Desktop\Projetos Casa\Aula09\EX5\obj\Debug\EX5.csproj.AssemblyReference.cache
+C:\Users\jveras\Desktop\Projetos Casa\Aula09\EX5\obj\Debug\EX5.csproj.CoreCompileInputs.cache
+C:\Users\jveras\Desktop\Projetos Casa\Aula09\EX5\obj\Debug\EX5.exe
+C:\Users\jveras\Desktop\Projetos Casa\Aula09\EX5\obj\Debug\EX5.pdb

@@ -1,0 +1,7 @@
+C:\Users\jonat\source\repos\Lista007\EX03\bin\Debug\EX03.exe.config
+C:\Users\jonat\source\repos\Lista007\EX03\bin\Debug\EX03.exe
+C:\Users\jonat\source\repos\Lista007\EX03\bin\Debug\EX03.pdb
+C:\Users\jonat\source\repos\Lista007\EX03\obj\Debug\EX03.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\Lista007\EX03\obj\Debug\EX03.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Lista007\EX03\obj\Debug\EX03.exe
+C:\Users\jonat\source\repos\Lista007\EX03\obj\Debug\EX03.pdb
